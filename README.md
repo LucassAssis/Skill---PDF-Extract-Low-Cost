@@ -37,3 +37,7 @@ OCR should be the last option, not the default.
 
 ## Author
 Lucas Assis
+
+## Technical Details
+Full extraction strategy:
+[View documentation](docs/low-cost-strategy.md)
