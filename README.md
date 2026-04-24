@@ -1,4 +1,4 @@
-# PDF Data Extraction Pipeline
+# PDF Exctract Low Cost
 
 ## Overview
 Pipeline for extracting and structuring financial data from PDFs with focus on low cost, accuracy and traceability.
